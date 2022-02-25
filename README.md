@@ -37,6 +37,8 @@ Deploying 'ERC721Mintable'
 
 https://testnets.opensea.io/collection/alcapcoin
 
+### Tokens have been minted using [MyEtherWallet](https://www.myetherwallet.com/)
+
 
 
 # Transaction Details
@@ -51,7 +53,7 @@ Fifth purchase: 0xfb87e93b810b4f21b820a5f510b5692cb7cb037880efab01a3484d0df7b90b
 
 
 # Contract abi
-
+```
 [
     {
       "inputs": [
@@ -792,7 +794,7 @@ Fifth purchase: 0xfb87e93b810b4f21b820a5f510b5692cb7cb037880efab01a3484d0df7b90b
       "type": "function"
     }
   ]
-
+```
 # Project Resources
 
 * [Remix - Solidity IDE](https://remix.ethereum.org/)
