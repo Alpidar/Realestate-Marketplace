@@ -37,12 +37,18 @@ Deploying 'ERC721Mintable'
 
 https://testnets.opensea.io/collection/alcapcoin
 
+
+
 # Transaction Details
 First purchase: 0x02202fd9ebbb146b5bcb9bea25d155126cf25625578aa923c679d1efd02d0769
 Second purchase: 0xd11f4f87649d07baa5fe51b608352e199712f8b62b671a8623243edb3d502f6f 
 Third purchase: 0xabe1cdae93b0a56f1baa93257e5b4287019d56809844696afe00c3fe2d59770a 
 Fourth purchase: 0x82dc0d9101a9112ac8e100bbdc6e5b0dfb38889c9ce8bba07bd3bdf95a1ab1c7
 Fifth purchase: 0xfb87e93b810b4f21b820a5f510b5692cb7cb037880efab01a3484d0df7b90bf7
+
+![](images/selling-details.PNG)
+
+
 
 # Contract abi
 
