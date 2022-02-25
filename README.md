@@ -2,8 +2,11 @@
 
 ``` 
 npm install
+
 cd eth-contracts
+
 truffle develop
+
 test
 ```
 
