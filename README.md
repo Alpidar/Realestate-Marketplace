@@ -37,7 +37,7 @@ Deploying 'ERC721Mintable'
 
 https://testnets.opensea.io/collection/alcapcoin
 
-** Tokens have been minted using [MyEtherWallet](https://www.myetherwallet.com/) **
+**Tokens have been minted using [MyEtherWallet](https://www.myetherwallet.com/)**
 
 
 
